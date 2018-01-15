@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteRule ^(.*)$ public_html/$1 [L]
+
